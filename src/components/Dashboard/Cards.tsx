@@ -18,7 +18,7 @@ export const Cards = () => {
                     <BsArrowUpShort className='up-down-grown'/>
                     <p>32,41%</p>
                 </div>
-            </div>
+            </div> 
             <div className="card">
                 <div className="title-card">
                     <div className="icon-title" style={{background:'#E1F7E6'}}>

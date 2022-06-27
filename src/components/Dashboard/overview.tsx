@@ -105,7 +105,7 @@ export const Overview = () => {
                         </div>
                     </div>
                 </div>
-            </Link>
+            </Link> 
             <Link to={'/order-number'}>
                 <div className="overview-num-order">
                     <div className='percent'>

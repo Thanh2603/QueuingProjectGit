@@ -27,7 +27,7 @@ import { Account } from './components/Account/Account';
 import { AddAccount } from './components/Account/AddAccount/AddAccount';
 import { UpdateAccount } from './components/Account/UpdateAccount/UpdateAccount';
 import { UserLog } from './components/UserLog/UserLog';
-
+ 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );

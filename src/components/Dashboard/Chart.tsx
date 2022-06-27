@@ -19,7 +19,7 @@ export const Chart = (props: Date) => {
     const text: any = document.getElementById(id)
     ip.value = text.innerText
   }
-
+ 
   const show = (id: string, u: string, d: string) => {
     const ip: any = document.getElementById(id)
     const up: any = document.getElementById(u)

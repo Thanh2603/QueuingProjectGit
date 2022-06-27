@@ -19,7 +19,7 @@ export const AddAccountContent = (props: name) => {
             hide.style.display = 'flex';
             show.style.display = 'none';
         }
-    }
+    } 
     const Chose = (id: string, input: string) => {
         const ip: any = document.getElementById(input)
         const text: any = document.getElementById(id)

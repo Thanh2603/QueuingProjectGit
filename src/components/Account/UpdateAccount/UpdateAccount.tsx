@@ -12,4 +12,4 @@ export const UpdateAccount = () => {
           </div>
       </div>
     )
-  }
+  } 
